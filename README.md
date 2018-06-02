@@ -25,4 +25,5 @@ Windows 10環境に開発ツールをセットアップするところから始�
 1. [簡単なWebページを作る](contents/simple_web_page.md)
 1. [Azure Cosmos DBの準備](contents/prepare_cosmosdb.md)
 1. [JavaプログラムからCosmos DBにアクセスする](contents/java_to_cosmosdb.md)
+1. [REST APIを作成する](contents/rest_api.md)
 
