@@ -56,7 +56,7 @@
 
 ## IntelliJ IDEAからの動作確認
 
-1. 左ペイン（プロジェクトウィンドウ）で「demo/src/main/java/com/example/demo/DemoApplication」を
+1. 左ペイン（プロジェクトウィンドウ）で「src/main/java/com/example/demo/DemoApplication」を
 右クリックし、「実行(U) 'DemoApplication.main()'」をクリックする。
 
     （注）「com/example/demo」部分は「com.example.demo」と1階層に集約されて
@@ -74,4 +74,5 @@
 [http://localhost:8080/](http://localhost:8080/)
 を表示し、さきほど同様「Whitelabel Error Page」が表示されることを確認する。
 
-
+1. 最後に、IntelliJ IDEAの実行ウィンドウで停止ボタン（赤い四角）を押し、
+アプリケーションを停止する。
