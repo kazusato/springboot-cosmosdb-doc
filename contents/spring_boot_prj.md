@@ -94,7 +94,7 @@ C:\Users\xxxxx\repos
 
 1. ブラウザーで [http://localhost:8080/](http://localhost:8080/) を開く。
 
-1. 以下の画面が表示されることを確認する。
+1. 以下の画面（Whitelabel Error Page）が表示されることを確認する。
 
     ![Whitelabel Error Page](../images/whitelabel_error_page.png)
 
