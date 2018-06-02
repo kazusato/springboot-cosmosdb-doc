@@ -20,6 +20,7 @@ Windows 10環境に開発ツールをセットアップするところから始�
 
 # 目次
 1. [開発環境構築](contents/devenv.md)
-2. [Spring Bootプロジェクトの作成](contents/spring_boot_prj.md)
-3. [IntelliJ IDEAへの取り込み](contents/intellij_idea.md)
-4. [簡単なWebページを作る](contents/simple_web_page.md)
+1. [Spring Bootプロジェクトの作成](contents/spring_boot_prj.md)
+1. [IntelliJ IDEAへの取り込み](contents/intellij_idea.md)
+1. [簡単なWebページを作る](contents/simple_web_page.md)
+1. [Azure Cosmos DBの準備](contents/prepare_cosmosdb.md)
